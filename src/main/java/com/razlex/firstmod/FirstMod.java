@@ -1,5 +1,6 @@
 package com.razlex.firstmod;
 
+import com.razlex.firstmod.configuration.ConfigurationHandler;
 import com.razlex.firstmod.proxy.IProxy;
 import com.razlex.firstmod.reference.Reference;
 import cpw.mods.fml.common.Mod;
@@ -15,13 +16,13 @@ public class FirstMod
     @Mod.Instance(Reference.MOD_ID)
     public static FirstMod instance;
 
-    @SidedProxy(clientSide = "com.razlex.firstmod.proxy.ClientProxy", serverSide = "com.razlex.firstmod.proxy.ServerProxy")
+    @SidedProxy(clientSide = Reference.CLIENT_PROXY_CLASS, serverSide = Reference.SERVER_PROXY_CLASS)
     public static IProxy proxy;
 
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event)
     {
-
+        ConfigurationHandler.init(event.getSuggestedConfigurationFile());
     }
 
     @Mod.EventHandler
