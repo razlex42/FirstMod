@@ -1,0 +1,21 @@
+[
+{
+    "modid": "FirstMod",
+    "name": "My First Mod",
+    "description": "This is my first mod.",
+    "version": "1.0",
+    "mcversion": "1.7.10",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+        "Razlex"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [
+    ],
+    "parent": "",
+    "dependencies": [
+    ]
+}
+]
