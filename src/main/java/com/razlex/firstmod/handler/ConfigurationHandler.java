@@ -16,6 +16,7 @@ public class ConfigurationHandler
     {
         if (configuration == null) {
             configuration = new Configuration(configFile);
+            loadConfiguration();
         }
     }
 
@@ -28,7 +29,7 @@ public class ConfigurationHandler
         }
     }
 
-    public void loadConfiguration()
+    private static void loadConfiguration()
     {
         configValue = configuration.get(Configuration.CATEGORY_GENERAL, "configValue", true, "Example config value").getBoolean(true);
         if(configuration.hasChanged())

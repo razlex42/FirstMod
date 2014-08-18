@@ -4,6 +4,7 @@ import com.razlex.firstmod.handler.ConfigurationHandler;
 import com.razlex.firstmod.proxy.IProxy;
 import com.razlex.firstmod.reference.Reference;
 import com.razlex.firstmod.utility.LogHelper;
+import cpw.mods.fml.common.FMLCommonHandler;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.SidedProxy;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
@@ -24,6 +25,7 @@ public class FirstMod
     public void preInit(FMLPreInitializationEvent event)
     {
         ConfigurationHandler.init(event.getSuggestedConfigurationFile());
+        FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
         LogHelper.info("Pre Initialization Complete!");
     }
 
