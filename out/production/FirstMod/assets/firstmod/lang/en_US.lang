@@ -1,0 +1,14 @@
+# Keys
+keys.firstmod.category=First Mod
+keys.firstmod.charge=
+keys.firstmod.release=
+
+
+# Creative Tabs
+itemGroup.firstmod=First Mod
+
+# Items
+item.firstmod:mapleLeaf.name=Maple Leaf of Awesomeness
+
+# Blocks
+tile.firstmod:flag.name=Maple Leaf Flag of Awesomeness
