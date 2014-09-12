@@ -15,6 +15,11 @@ import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import net.minecraft.item.ItemStack;
 import net.minecraftforge.oredict.OreDictionary;
+import spark.Request;
+import spark.Response;
+import spark.Route;
+
+import static spark.Spark.get;
 
 @Mod(modid = Reference.MOD_ID, name= Reference.MOD_NAME, version = Reference.VERSION, guiFactory = Reference.GUI_FACTORY_CLASS)
 public class FirstMod
@@ -57,6 +62,15 @@ public class FirstMod
                 LogHelper.info("    Ore: " + ore.getDisplayName());
             }
         }
+
+        get(new Route("/hello") {
+            @Override
+            public Object handle(Request request, Response response) {
+                //Deal with web here
+                LogHelper.info(request.toString());
+                return "OK";
+            }
+        });
 
         LogHelper.info("Post Initialization Complete!");
     }

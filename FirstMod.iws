@@ -2,34 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="280e4598-fb05-4dbc-ad24-cb286a10ede7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/assets/firstmod/textures/blocks/flag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/assets/firstmod/textures/items/mapleleaf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/razlex/firstmod/block/BlockFM.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/razlex/firstmod/block/BlockFlag.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/razlex/firstmod/creativetab/CreativeTabFM.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/razlex/firstmod/item/ItemFM.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/razlex/firstmod/item/ItemMapleLeaf.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/razlex/firstmod/reference/Key.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/razlex/firstmod/init/ModBlocks.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/razlex/firstmod/init/ModItems.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/razlex/firstmod/reference/Names.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/razlex/firstmod/init/Recipes.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/assets/firstmod/lang/en_US.lang" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2014-08-18-1.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2014-08-18-1.log.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2014-08-18-2.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2014-08-18-2.log.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/razlex/firstmod/proxy/ClientProxy.java" afterPath="$PROJECT_DIR$/src/main/java/com/razlex/firstmod/proxy/ClientProxy.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World/playerdata/040a63f0-e153-3f49-84a8-b60ca564e69f.dat" afterPath="$PROJECT_DIR$/run/saves/New World/playerdata/040a63f0-e153-3f49-84a8-b60ca564e69f.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/2014-09-11-1.log.gz" afterPath="$PROJECT_DIR$/run/logs/2014-09-11-1.log.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/2014-09-11-2.log.gz" afterPath="$PROJECT_DIR$/run/logs/2014-09-11-2.log.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/2014-09-11-3.log.gz" afterPath="$PROJECT_DIR$/run/logs/2014-09-11-3.log.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/2014-09-11-4.log.gz" afterPath="$PROJECT_DIR$/run/logs/2014-09-11-4.log.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/2014-09-11-5.log.gz" afterPath="$PROJECT_DIR$/run/logs/2014-09-11-5.log.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/2014-09-11-6.log.gz" afterPath="$PROJECT_DIR$/run/logs/2014-09-11-6.log.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/2014-09-11-7.log.gz" afterPath="$PROJECT_DIR$/run/logs/2014-09-11-7.log.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World/level.dat" afterPath="$PROJECT_DIR$/run/saves/New World/level.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World/level.dat_old" afterPath="$PROJECT_DIR$/run/saves/New World/level.dat_old" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World/region/r.-1.-1.mca" afterPath="$PROJECT_DIR$/run/saves/New World/region/r.-1.-1.mca" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World/region/r.0.-1.mca" afterPath="$PROJECT_DIR$/run/saves/New World/region/r.0.-1.mca" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World/region/r.1.-1.mca" afterPath="$PROJECT_DIR$/run/saves/New World/region/r.1.-1.mca" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World/stats/040a63f0-e153-3f49-84a8-b60ca564e69f.json" afterPath="$PROJECT_DIR$/run/saves/New World/stats/040a63f0-e153-3f49-84a8-b60ca564e69f.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FirstMod.iml" afterPath="$PROJECT_DIR$/FirstMod.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FirstMod.ipr" afterPath="$PROJECT_DIR$/FirstMod.ipr" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FirstMod.iws" afterPath="$PROJECT_DIR$/FirstMod.iws" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/razlex/firstmod/FirstMod.java" afterPath="$PROJECT_DIR$/src/main/java/com/razlex/firstmod/FirstMod.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/razlex/firstmod/client/gui/GuiFactory.java" afterPath="$PROJECT_DIR$/src/main/java/com/razlex/firstmod/client/gui/GuiFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/razlex/firstmod/proxy/IProxy.java" afterPath="$PROJECT_DIR$/src/main/java/com/razlex/firstmod/proxy/IProxy.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/razlex/firstmod/client/gui/ModGuiConfig.java" afterPath="$PROJECT_DIR$/src/main/java/com/razlex/firstmod/client/gui/ModGuiConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/latest.log" afterPath="$PROJECT_DIR$/eclipse/logs/latest.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/fml-client-1.log" afterPath="$PROJECT_DIR$/run/logs/fml-client-1.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/fml-client-2.log" afterPath="$PROJECT_DIR$/run/logs/fml-client-2.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/fml-client-3.log" afterPath="$PROJECT_DIR$/run/logs/fml-client-3.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/fml-client-latest.log" afterPath="$PROJECT_DIR$/run/logs/fml-client-latest.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/fml-junk-earlystartup.log" afterPath="$PROJECT_DIR$/run/logs/fml-junk-earlystartup.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/latest.log" afterPath="$PROJECT_DIR$/run/logs/latest.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World/session.lock" afterPath="$PROJECT_DIR$/run/saves/New World/session.lock" />
     </list>
     <ignored path="FirstMod.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -118,16 +115,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Names.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/razlex/firstmod/reference/Names.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ModBlocks.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/razlex/firstmod/init/ModBlocks.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -138,11 +125,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BlockFlag.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="BlockFlag.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/razlex/firstmod/block/BlockFlag.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8901099" vertical-offset="0" max-vertical-offset="660">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
               <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FirstMod.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/razlex/firstmod/FirstMod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7008547" vertical-offset="722" max-vertical-offset="1260">
+              <caret line="70" column="28" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -217,7 +216,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/razlex/firstmod/creativetab/CreativeTabFM.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/razlex/firstmod/item/ItemMapleLeaf.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/razlex/firstmod/client/gui/ModGuiConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/razlex/firstmod/FirstMod.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/razlex/firstmod/init/Recipes.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/razlex/firstmod/reference/Names.java" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/firstmod/lang/en_US.lang" />
@@ -227,6 +225,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/razlex/firstmod/reference/Key.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/razlex/firstmod/block/BlockFM.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/razlex/firstmod/block/BlockFlag.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/razlex/firstmod/FirstMod.java" />
       </list>
     </option>
   </component>
@@ -292,6 +291,20 @@
       </pane>
       <pane id="PackagesPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FirstMod" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FirstMod" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="FirstMod" />
@@ -590,14 +603,14 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="FullScreen" value="false" />
     <property name="dynamic.classpath" value="false" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;jar:///Users/bholmes/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1180/forgeSrc-1.7.10-10.13.0.1180-sources.jar!/net/minecraft/client/renderer/texture/TextureCompass.java&#10;compass&#9;PSI&#9;JAVA://net.minecraft.client.renderer.texture.TextureCompass" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Equivalent-Exchange-3" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/spark-0.9.9.4-SNAPSHOT/spark-0.9.9.4-SNAPSHOT.jar!/" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
   </component>
@@ -756,7 +769,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="838" extended-state="7" />
+    <frame x="0" y="22" width="1440" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -767,7 +780,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2954279" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942554" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32849503" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32769832" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -861,6 +874,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="840">
           <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -868,6 +884,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
           <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -883,6 +902,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="675">
           <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -898,6 +920,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="675">
           <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1070,6 +1095,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1084,13 +1110,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/razlex/firstmod/FirstMod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="99" max-vertical-offset="840">
-          <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1168,8 +1188,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/razlex/firstmod/block/BlockFlag.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8901099" vertical-offset="0" max-vertical-offset="660">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
           <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/razlex/firstmod/FirstMod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7008547" vertical-offset="722" max-vertical-offset="1260">
+          <caret line="70" column="28" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1231,6 +1261,7 @@
       <state key="ProjectJDKs.UI" />
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>spark-0.9.9.4-SNAPSHOT</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
